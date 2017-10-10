@@ -1,11 +1,12 @@
 ### Shellshock tester
 
 ##usage
+<pre>
 git clone https://github.com/AysadKozanoglu/shellshock_test.git
 
 cd shellshock_test
 chmod +x shellshock_test.sh && ./shellshock_test.sh
-
+</pre>
 
 
 if anybody needs can used for any bash based console to test the shellshock
